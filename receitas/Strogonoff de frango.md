@@ -1,9 +1,8 @@
-​	#Strogonoff de frango :chicken:
+	Strogonoff de frango :chicken:
 
 
 
 **Pavê**
 
-leite condensado
+**Bolo de cenoura**
 
-ovos
